@@ -1,0 +1,1 @@
+This is the first project on the revamped Odin Project Foundations course, where I will demonstrate the basic HTML knowledge I've built up by creating a basic recipes website (to be prettied up later with CSS).
